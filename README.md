@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <h1>🚀 Docker Compose Project – Web App + Database</h1>
 <p><strong>Built with ❤️ by <a href="https://github.com/atulkamble">Atul Kamble</a></strong></p>
@@ -622,3 +623,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **If you find this project helpful, please consider giving it a ⭐ on GitHub!**
 </div>
+=======
+# docker-compose-flask-mysql
+docker-compose-flask-mysql
+>>>>>>> 2d03ed182147760cfec774b26c758ca86efb31e2
